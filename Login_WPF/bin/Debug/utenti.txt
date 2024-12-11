@@ -1,0 +1,3 @@
+Francesco,Tappi,ftappi@gmail.com,ciao123,Via del Campo 123 Firenze
+Simone,Piolanti,spiolo@libero.it,piolo123,Via La Malfa Taibo Mercato Saraceno
+Gioele,Foschi,giodx@libero.it,olimpiadi,Via dei Tulipani 123
